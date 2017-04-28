@@ -12,7 +12,21 @@
 
 ### Vertical slide page 3   
 
++++
+
+<canvas data-chart="line" data-chart-src="https://raw.githubusercontent.com/AndersHqst/presentations-swift/master/assets/data.csv">
+<!-- 
+{ 
+ "data" : {
+  "labels" : ["Enero", "Febrero", "Marzo", "Avril", "Mayo", "Junio", "Julio"],
+  "datasets" : [{ "borderColor": "#0f0", "borderDash": ["5","10"] }, { "borderColor": "#0ff" } ]
+ }
+}
+-->
+</canvas>
+
 +++ 
+
 <canvas data-chart="line">
 <!-- 
 {
