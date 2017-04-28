@@ -4,7 +4,7 @@
 ![Swift logo][logo]
 
 <!-- Urls -->
-[logo]: https://devimages.apple.com.edgekey.net/assets/elements/icons/swift/swift-128x128_2x.png "Swift logo"
+[logo]: https://www.meta.sc/images/blog/swift_logo.png "Swift logo"
 
 #HSLIDE
 
