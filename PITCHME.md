@@ -16,6 +16,7 @@
 
 <canvas data-chart="line" data-chart-src="https://raw.githubusercontent.com/AndersHqst/presentations-swift/master/assets/data.csv">
 Small data
+<!-- test -->
 Larger data
 <!-- 
 { 
