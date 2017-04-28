@@ -1,10 +1,8 @@
 #HSLIDE
 
 ### Swift
-![Swift logo][logo]
 
-<!-- Urls -->
-[logo]: https://www.meta.sc/images/blog/swift_logo.png "Swift logo"
+<img src="https://www.meta.sc/images/blog/swift_logo.png" alt="Swift logo" style="width: 100px; height: 100px;"/>
 
 #HSLIDE
 
