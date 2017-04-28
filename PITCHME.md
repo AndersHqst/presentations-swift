@@ -1,4 +1,6 @@
 #HSLIDE
 
 ### Swift
-![Swift logo](https://www.google.dk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwikn-uQ_sbTAhVECywKHY0_CH8QjRwIBw&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASwift_logo.svg&psig=AFQjCNGwredU_GFSsmFj5SvbSPtFrOa0Mw&ust=1493463205966699 "Swift logo")
+![Swift logo][logo]
+
+[logo]: (https://devimages.apple.com.edgekey.net/assets/elements/icons/swift/swift-128x128_2x.png "Swift logo")
