@@ -1,2 +1,3 @@
-background : assets/orange_bg.jpg
+# background : assets/orange_bg.jpg
 # background-size : contain
+theme : beige
